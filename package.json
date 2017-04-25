@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [babyparse (v0.4.6)](https://github.com/Rich-Harris/BabyParse#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-babyparse.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babyparse) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babyparse.svg)](https://travis-ci.org/npmtest/node-npmtest-babyparse)",
+    "description": "#### basic test coverage for  [babyparse (v0.4.6)](https://github.com/Rich-Harris/BabyParse#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-babyparse.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babyparse) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babyparse.svg)](https://travis-ci.org/npmtest/node-npmtest-babyparse)",
     "devDependencies": {
         "babyparse": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
